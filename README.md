@@ -64,9 +64,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyrosigma&show_icons=true&locale=en&layout=compact" alt="spyrosigma" />
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyrosigma&show_icons=true&locale=en" alt="spyrosigma" />
-&nbsp; 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyrosigma&" alt="spyrosigma" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyrosigma&show_icons=true&locale=en" alt="spyrosigma" /> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyrosigma&" alt="spyrosigma" /></p>
 
 
 
