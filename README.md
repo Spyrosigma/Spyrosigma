@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/spyrosigma" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/spyrosigma?logo=twitter&style=for-the-badge" alt="https://twitter.com/spyrosigma" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python, ML and**
