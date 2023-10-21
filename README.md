@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I'm Jack of all traits, king of some (Gaming, Atheletics, Academics, Culinary, Cinephile)**
 
 <h3 align="left">Connect with me on :</h3> 
-<a href="https://twitter.com/https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
+<a href="https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
