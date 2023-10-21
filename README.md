@@ -13,11 +13,12 @@
 
 - ⚡ Fun fact: **I'm Jack of all traits, king of some (Gaming, Atheletics, Academics, Culinary, Cinephile)**
 
-<h3 align="left">Connect with me on :</h3> <a href="https://twitter.com/https://twitter.com/spyrosigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/spyrosigma" height="30" width="40" /></a>
-<img src="https://camo.githubusercontent.com/6190a58e31ce3da9486f99312f2b1cf1f6cdac8216fed8f17afac8ff605ec3ec/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f746563686972616c5f3f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="Spyrosigma" data-canonical-src="https://img.shields.io/twitter/follow/Spyrosigma?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;">
+<h3 align="left">Connect with me on :</h3> 
+<a href="https://twitter.com/https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> 
