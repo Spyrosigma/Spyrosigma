@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **namdev2003satyam@gmail.com**
 
-- ⚡ Fun fact: **I'm Jack of all traits (Gaming, Atheletics, Academics, Culinary, Cinephile)**
+- ⚡ Fun fact : **I'm Jack of all traits (Gaming, Atheletics, Academics, Culinary, Cinephile)**
 
 
 <h3 align="left">Connect with me on :</h3> 
