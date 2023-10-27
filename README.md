@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, ML and Data analytics**
+- 💬 Ask me about **Python, ML and Computer Vision**
 
 - 📫 How to reach me **namdev2003satyam@gmail.com**
 
