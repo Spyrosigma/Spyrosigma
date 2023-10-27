@@ -70,6 +70,8 @@
 
 
 [![An image of @spyrosigma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spyrosigma)](https://holopin.io/@spyrosigma)
+
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 <!--
 **Spyrosigma/Spyrosigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
