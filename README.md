@@ -9,32 +9,9 @@
 <p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![MUI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat-square&logo=mui&logoColor=fff)
-![MUI](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff)
+
 ![Boostrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
 
-
-![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-Testing_Library-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
-
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
