@@ -4,39 +4,7 @@
 
 <div align='center'>
 
-### My Tech Stack
-
-<p>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
-
-![Boostrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</p>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrosigma&label=Profile%20views&color=0e75b6&style=flat" alt="spyrosigma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a></p>
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Python, ML and Computer Vision**
-
-- 📫 How to reach me **namdev2003satyam@gmail.com**
-
-- ⚡ Fun fact : **I'm Jack of all traits (Gaming, Atheletics, Academics)**
-
-
-<h3 align="left">Connect with me on :</h3> 
-<a href="https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
-<a href="https://www.linkedin.com/in/satyam-namdev-37799b202" target="blank"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin@satyam-namdev" height="30" width="40" /> </a>
-
-
-<h3 align="left">Languages and Tools:</h3>
+### My Tech Stack -- (Languages and Tools)
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -78,6 +46,37 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> &nbsp
 </p>
+<p>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
+
+![Boostrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</p>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrosigma&label=Profile%20views&color=0e75b6&style=flat" alt="spyrosigma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a></p>
+
+- 🌱 I’m currently learning **Django**
+
+- 💬 Ask me about **Python, ML and Computer Vision**
+
+- 📫 How to reach me **namdev2003satyam@gmail.com**
+
+- ⚡ Fun fact : **I'm Jack of all traits (Gaming, Atheletics, Academics)**
+
+
+<h3 align="left">Connect with me on :</h3> 
+<a href="https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/satyam-namdev-37799b202" target="blank"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin@satyam-namdev" height="30" width="40" /> </a>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyrosigma&show_icons=true&locale=en&layout=compact" alt="spyrosigma" />
 &nbsp;
