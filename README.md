@@ -13,8 +13,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> &nbsp
     <a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> &nbsp
+        rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
+            height="40" /></a> &nbsp
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
             height="40" /> </a>  &nbsp
@@ -46,7 +46,7 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> &nbsp
 </p>
-<p>
+<!-- <p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
 
@@ -55,7 +55,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-</p>
+</p> -->
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrosigma&label=Profile%20views&color=0e75b6&style=flat" alt="spyrosigma" /> </p>
