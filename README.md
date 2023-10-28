@@ -1,4 +1,4 @@
-<h1 align="center"> Hii there, I'm Satyam Namdev</h1>
+<h1 align="center"> Hey there, I'm Satyam Namdev 😄</h1>
 <h3 align="center">A passionate full stack developer and Data Science enthusiast from India</h3>
 
 
