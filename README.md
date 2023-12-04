@@ -76,7 +76,7 @@
 <a href="https://www.linkedin.com/in/satyam-namdev-37799b202" target="blank"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin@satyam-namdev" height="30" width="40" /> </a>
 
 
-
+<br> <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyrosigma&show_icons=true&locale=en&layout=compact" alt="spyrosigma" />
 &nbsp;
