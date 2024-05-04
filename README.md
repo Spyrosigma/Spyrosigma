@@ -1,5 +1,8 @@
 <h1 align="center"> Hey there, I'm Satyam Namdev 😄</h1>
-<h3 align="center">A passionate full stack developer and Data Science enthusiast from India</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Dual-Degree-Aspirant,;Computer+Science+Student+ABES EC,;Data+Science+Student+IIT-Madras,;Computer-Vision expert;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+</p>
+<!-- <h3 align="center">A passionate full stack developer and Data Science enthusiast from India</h3> -->
 
 
 <div align='center'>
@@ -71,10 +74,12 @@
 - ⚡ Fun fact : **I'm Jack of all traits (Gaming, Atheletics, Academics)**
 
 
-<h3 align="left">Connect with me on :</h3> 
-<a href="https://twitter.com/spyrosigma" target="blank"> <img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="https://twitter.com/spyrosigma" height="30" width="40" /> </a>
-<a href="https://www.linkedin.com/in/satyam-namdev-37799b202" target="blank"> <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin@satyam-namdev" height="30" width="40" /> </a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/spyrosigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/spyrosigma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/satyam._.pvvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/satyam._.pvvt" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/spyrosigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/spyrosigma" height="30" width="40" /></a>  
+</p>
 
 <br> <br>
 
