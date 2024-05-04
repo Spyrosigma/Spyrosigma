@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Dual-Degree-Aspirant,;Computer+Science+Student+ABES EC,;Data+Science+Student+IIT-Madras,;Computer-Vision expert;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;Dual-Degree-Aspirant;Computer+Science+Student+ABES EC;Data+Science+Student+IIT-Madras;Computer-Vision expert;Active+Learner/Researcher;Love+to+learn+new+stuffs)](https://git.io/typing-svg)
 <!-- <h3 align="center">A passionate full stack developer and Data Science enthusiast from India</h3> -->
 
 
