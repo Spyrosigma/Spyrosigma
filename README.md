@@ -66,7 +66,7 @@
 
 - 💬 Ask me about **Python, ML, LLMs and Computer Vision**
 
-- 📫 How to reach me **namdev2003satyam@gmail.com** 
+- 📫 How to reach me **namdev2003satyam@gmail.com** or you can ping me up on X.
 
 - ⚡ Fun fact : **I'm Jack of all traits (Chess, Athletics, Calisthenics, Web-Dev, 3D designing, Web3), Trying to become master of one: DATA SCIENCE**
 
