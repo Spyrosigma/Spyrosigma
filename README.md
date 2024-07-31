@@ -62,13 +62,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a></p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Core ML**
 
-- 💬 Ask me about **Python, ML and Computer Vision**
+- 💬 Ask me about **Python, ML, LLMs and Computer Vision**
 
-- 📫 How to reach me **namdev2003satyam@gmail.com**
+- 📫 How to reach me **namdev2003satyam@gmail.com** 
 
-- ⚡ Fun fact : **I'm Jack of all traits (Gaming, Atheletics, Academics)**
+- ⚡ Fun fact : **I'm Jack of all traits (Chess, Athletics, Calisthenics, Web-Dev, 3D designing, Web3), Trying to become master of one: DATA SCIENCE**
 
 
 <h3 align="left">Connect with me:</h3>
