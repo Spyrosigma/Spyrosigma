@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, I'm Satyam Namdev 😄</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DATA+Scientist,;Dual-Degree-Aspirant,;Computer+Science+Student+ABESEC,;Data+Science+Student+IIT-Madras,;Computer+Vision+expert,;Python+developer+(Django+Flask),;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DATA+Scientist,;Dual-Degree-Aspirant,; Data+Science+Student+IIT-Madras,; Computer+Science+Student+ABESEC,;Computer+Vision,;Python+developer+(Django, Flask),;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a></p>
 
-- 🌱 I’m currently learning **Core ML**
+- 🌱 I’m currently learning **Core ML Algos**
 
 - 💬 Ask me about **Python, ML, LLMs and Computer Vision**
 
