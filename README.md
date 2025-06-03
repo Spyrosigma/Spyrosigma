@@ -5,18 +5,7 @@
   </a>
 </p>
 
-<div align='center'>
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
-
-![Boostrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</p> -->
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrosigma&label=Profile%20views&color=0e75b6&style=flat" alt="spyrosigma" /> </p>
 
