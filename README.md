@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🧠 **Currently Learning:** Core ML Algorithms & Advanced Data Science
+- 🧠 **Currently Learning:** Diving deep into Inference
 - 💬 **Ask me about:** Python, Machine Learning, LLMs, Computer Vision
 - ⚡ **Fun Fact:** Jack of all trades (Chess, Athletics, Calisthenics, Web-Dev, 3D Design, Web3) → Mastering **DATA SCIENCE**
 
