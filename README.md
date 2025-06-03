@@ -1,8 +1,9 @@
 <div align="left">
 
-# Hey there, I'm Satyam Namdev 👋
+
 
 <p align="center">
+  # Hey there, I'm Satyam Namdev 👋
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Dual-Degree+Aspirant+%40+IIT+Madras;Computer+Vision+%26+Python+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%9A%80">
   </a>
