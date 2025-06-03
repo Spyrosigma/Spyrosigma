@@ -1,56 +1,65 @@
-<h1 align="center"> Hey there, I'm Satyam Namdev 😄</h1>
+<div align="center">
+
+# Hey there, I'm Satyam Namdev 👋
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DATA+Scientist,;Dual-Degree-Aspirant,;Data+Science+Student+IIT-Madras,;Computer+Vision,;Python+developer+(Django+Flask),;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Dual-Degree+Aspirant+%40+IIT+Madras;Computer+Vision+%26+Python+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%9A%80">
   </a>
 </p>
 
-- 🌱 I’m currently learning **Core ML Algos**
+---
 
-- 💬 Ask me about **Python, ML, LLMs and Computer Vision**
+### 🚀 About Me
 
-- 📫 How to reach me **namdev2003satyam@gmail.com** or you can ping me up on X.
+- 🧠 **Currently Learning:** Core ML Algorithms & Advanced Data Science
+- 💬 **Ask me about:** Python, Machine Learning, LLMs, Computer Vision
+- ⚡ **Fun Fact:** Jack of all trades (Chess, Athletics, Calisthenics, Web-Dev, 3D Design, Web3) → Mastering **DATA SCIENCE**
 
-- ⚡ Fun fact : **I'm Jack of all traits (Chess, Athletics, Calisthenics, Web-Dev, 3D designing, Web3), Trying to become master of one: DATA SCIENCE**
+### 🌐 Let's Connect
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  mail: <a href="mailto:namdev2003satyam@gmail.com" target="_blank">
-    <img align="center" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" 
-         alt="Gmail" 
-         height="30" 
-         width="40" />
+<p align="center">
+  <a href="mailto:namdev2003satyam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <br>
-  twitter: <a href="https://x.com/spyrosigma" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-         alt="X (formerly Twitter)" 
-         height="30" 
-         width="40" />
+  <a href="https://x.com/spyrosigma">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <br>
-  Linkedin: <a href="https://linkedin.com/in/spyrosigma" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" 
-         height="30" 
-         width="40" />
+  <a href="https://linkedin.com/in/spyrosigma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<br> <br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyrosigma&show_icons=true&locale=en&layout=compact" alt="spyrosigma" />
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyrosigma&show_icons=true&locale=en" alt="spyrosigma" /> </p>
-<!-- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyrosigma&" alt="spyrosigma" /></p> -->
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spyrosigma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyrosigma&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyrosigma&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
+---
 
-[![An image of @spyrosigma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spyrosigma)](https://holopin.io/@spyrosigma)
+### 🏆 Achievements & Badges
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<div align="center">
+  
+[![Holopin Badges](https://holopin.me/spyrosigma)](https://holopin.io/@spyrosigma)
+
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=spyrosigma&color=brightgreen&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+</div>
