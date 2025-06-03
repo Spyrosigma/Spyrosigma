@@ -5,12 +5,6 @@
   </a>
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrosigma&label=Profile%20views&color=0e75b6&style=flat" alt="spyrosigma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyrosigma" alt="spyrosigma" /></a></p>
-
 - 🌱 I’m currently learning **Core ML Algos**
 
 - 💬 Ask me about **Python, ML, LLMs and Computer Vision**
