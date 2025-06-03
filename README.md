@@ -21,10 +21,10 @@
 <p align="center">
   <a href="mailto:namdev2003satyam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a> &nbsp;
   <a href="https://x.com/spyrosigma">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
+  </a> &nbsp;
   <a href="https://linkedin.com/in/spyrosigma">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
