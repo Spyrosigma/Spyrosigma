@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <!--     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Dual-Degree+Aspirant+%40+IIT+Madras;Computer+Vision+%26+Python+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%9A%80"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=750&height=100&lines=AI+Engineer+%7C+RAG+%26+Agentic+Systems;Crafting+Chatbots+%7C+Automation+with+Cron+Jobs;Building+with+LangChain+%7C+Vector+DBs+%7C+FastAPI;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Pythonic+Dreams+in+an+AI-First+World">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=750&height=100&lines=AI+Engineer+%7C+RAG+%26+Agentic+Systems;Crafting+Chatbots+%7C+Automation+with+Cron+Jobs;Building+with+LangChain+%7C+Vector+DBs+%7C+FastAPI;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Pythonic+Dreams+in+an+AI-First+World"> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00d9ff&size=25&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%7C+RAGs+%26+Agentic+Systems;ML+Engineer+%40+TunableLabs%2C+USA;AI+Engineer+%40+ezAIx%2C+USA;Building+Chatbots+%7C+LangChain+%7C+Vector+DBs;Cron+Jobs+%7C+Automation+%7C+FastAPI;Always+Learning%2C+Always+Automating+%F0%9F%9A%80">
   </a>
 </p>
